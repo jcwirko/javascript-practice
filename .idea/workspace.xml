@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa32330-355d-4483-b837-2d1b87532d47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02 - functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 - objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pitz-Prueba-Tecnica/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pitz-Prueba-Tecnica/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../adapter" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../amalgama" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bit/bitecnologias" afterDir="false" />
@@ -5430,7 +5435,8 @@
       <change afterPath="$PROJECT_DIR$/../youtube/return/tests/TestCase.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../youtube/return/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../youtube/return/webpack.mix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youtube/servicio-s3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 - variables.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -5461,6 +5467,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -5490,7 +5501,12 @@
       <workItem from="1611781875272" duration="119000" />
       <workItem from="1612549160887" duration="1055000" />
       <workItem from="1612784295365" duration="1117000" />
-      <workItem from="1612910007755" duration="194000" />
+      <workItem from="1612910007755" duration="518000" />
+      <workItem from="1612998429204" duration="1659000" />
+      <workItem from="1614795341797" duration="263000" />
+      <workItem from="1614814037300" duration="637000" />
+      <workItem from="1614859450772" duration="1260000" />
+      <workItem from="1615054785930" duration="815000" />
     </task>
     <servers />
   </component>
