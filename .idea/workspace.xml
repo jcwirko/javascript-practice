@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa32330-355d-4483-b837-2d1b87532d47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02 - functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03 - objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 - promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NodeJs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - node server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - let vs var async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-udemy/Assigment 1/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pitz-Prueba-Tecnica/data.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pitz-Prueba-Tecnica/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../adapter" afterDir="false" />
@@ -5256,7 +5263,6 @@
       <change afterPath="$PROJECT_DIR$/../gm2/agropro" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gm2/b612" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../gm2/gm2dev-payroll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gm2/lowsetfee" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ingsoft" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../munirentas" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-app" afterDir="false" />
@@ -5436,7 +5442,6 @@
       <change afterPath="$PROJECT_DIR$/../youtube/return/tests/Unit/ExampleTest.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../youtube/return/webpack.mix.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 - variables.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -5457,7 +5462,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/curso-udemy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -5469,6 +5474,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/curso-udemy" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -5506,7 +5512,12 @@
       <workItem from="1614795341797" duration="263000" />
       <workItem from="1614814037300" duration="637000" />
       <workItem from="1614859450772" duration="1260000" />
-      <workItem from="1615054785930" duration="815000" />
+      <workItem from="1615054785930" duration="1833000" />
+      <workItem from="1615928534780" duration="501000" />
+      <workItem from="1616599274456" duration="1621000" />
+      <workItem from="1616637402764" duration="1585000" />
+      <workItem from="1616673763500" duration="46000" />
+      <workItem from="1616860170493" duration="967000" />
     </task>
     <servers />
   </component>
